@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e62ec76-a2dc-421a-86dd-02f89a75a838" name="Default" comment="No31 No54 added">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No54.java" afterDir="false" />
+    <list default="true" id="1e62ec76-a2dc-421a-86dd-02f89a75a838" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/No30.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="No54.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="No54.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/No54.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
@@ -30,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="No31.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="No31.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/No31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="380">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -55,8 +51,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/No30.java" />
-        <option value="$PROJECT_DIR$/src/No31.java" />
         <option value="$PROJECT_DIR$/src/No54.java" />
+        <option value="$PROJECT_DIR$/src/No31.java" />
       </list>
     </option>
   </component>
@@ -215,16 +211,23 @@
       <workItem from="1525341812086" duration="9225000" />
       <workItem from="1525406461067" duration="8364000" />
       <workItem from="1525488370921" duration="2451000" />
-      <workItem from="1525491121577" duration="267000" />
+      <workItem from="1525491121577" duration="295000" />
     </task>
+    <task id="LOCAL-00001" summary="No31 No54 added">
+      <created>1525491393970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525491393970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20535000" />
+    <option name="totallyTimeSpent" value="20563000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -343,13 +346,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/No30.java" />
-    <entry file="file://$PROJECT_DIR$/src/No31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/No54.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
@@ -357,6 +353,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
