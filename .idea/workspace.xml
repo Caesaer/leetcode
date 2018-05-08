@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e62ec76-a2dc-421a-86dd-02f89a75a838" name="Default" comment="36 38 added">
-      <change afterPath="$PROJECT_DIR$/src/No39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No40.java" afterDir="false" />
+    <list default="true" id="1e62ec76-a2dc-421a-86dd-02f89a75a838" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="No40.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/No40.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+            <state relative-caret-position="494">
+              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,7 +80,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -255,7 +253,7 @@
       <workItem from="1525573145389" duration="14691000" />
       <workItem from="1525701092496" duration="5017000" />
       <workItem from="1525748766846" duration="12202000" />
-      <workItem from="1525785246169" duration="4411000" />
+      <workItem from="1525785246169" duration="4671000" />
     </task>
     <task id="LOCAL-00001" summary="No31 No54 added">
       <created>1525491393970</created>
@@ -278,14 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525600572453</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="36 38 added">
+      <created>1525789803608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525789803608</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63401000" />
+    <option name="totallyTimeSpent" value="63661000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -298,7 +303,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872927" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32872927" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -643,8 +648,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/No40.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="494">
+          <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
