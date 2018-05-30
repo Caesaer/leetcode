@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e62ec76-a2dc-421a-86dd-02f89a75a838" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/No59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/No63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,25 +16,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$No69.ic" NAME="No69 Coverage Results" MODIFIED="1527682079453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="No63.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/No63.java">
+      <file leaf-file-name="No69.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/No69.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="No62.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No62.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="396">
+              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding>
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,6 +75,9 @@
         <option value="$PROJECT_DIR$/src/No61.java" />
         <option value="$PROJECT_DIR$/src/No62.java" />
         <option value="$PROJECT_DIR$/src/No63.java" />
+        <option value="$PROJECT_DIR$/src/No66.java" />
+        <option value="$PROJECT_DIR$/src/No67.java" />
+        <option value="$PROJECT_DIR$/src/No69.java" />
       </list>
     </option>
   </component>
@@ -94,10 +91,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1466" />
-    <option name="y" value="64" />
-    <option name="width" value="1120" />
-    <option name="height" value="792" />
+    <option name="x" value="-1211" />
+    <option name="y" value="147" />
+    <option name="width" value="896" />
+    <option name="height" value="634" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -107,8 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,11 +121,14 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Algorithm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -146,24 +144,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.No63">
+  <component name="RunManager" selected="Application.No69">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="No56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No56" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="No59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No59" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="No61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="No61" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="No62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No62" />
@@ -172,6 +155,21 @@
     </configuration>
     <configuration name="No63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="No63" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="No66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No66" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="No67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No67" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="No69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="No69" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -217,19 +215,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.No56" />
-      <item itemvalue="Application.No59" />
-      <item itemvalue="Application.No61" />
       <item itemvalue="Application.No62" />
       <item itemvalue="Application.No63" />
+      <item itemvalue="Application.No66" />
+      <item itemvalue="Application.No67" />
+      <item itemvalue="Application.No69" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.No69" />
+        <item itemvalue="Application.No67" />
+        <item itemvalue="Application.No66" />
         <item itemvalue="Application.No63" />
         <item itemvalue="Application.No62" />
-        <item itemvalue="Application.No61" />
-        <item itemvalue="Application.No59" />
-        <item itemvalue="Application.No56" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +274,11 @@
       <workItem from="1527312669355" duration="7795000" />
       <workItem from="1527473300764" duration="9717000" />
       <workItem from="1527500021151" duration="1295000" />
-      <workItem from="1527562254639" duration="10566000" />
+      <workItem from="1527562254639" duration="11248000" />
+      <workItem from="1527585736473" duration="6545000" />
+      <workItem from="1527665885268" duration="604000" />
+      <workItem from="1527670153944" duration="3125000" />
+      <workItem from="1527680920651" duration="1173000" />
     </task>
     <task id="LOCAL-00001" summary="No31 No54 added">
       <created>1525491393970</created>
@@ -320,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527323116776</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="59 61 62 63 added">
+      <created>1527578854058</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1527578854058</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142741000" />
+    <option name="totallyTimeSpent" value="154870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1176" extended-state="6" />
@@ -372,7 +381,8 @@
     <MESSAGE value="36 38 added" />
     <MESSAGE value="43 46 47 added" />
     <MESSAGE value="48 49 55 56 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="48 49 55 56 added" />
+    <MESSAGE value="59 61 62 63 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="59 61 62 63 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -438,7 +448,7 @@
           <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="45" />
+      <option name="time" value="56" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -456,47 +466,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/No40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/No39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/No40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/No39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/No36.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/No38.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -708,13 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2356">
-          <caret line="151" column="11" selection-start-line="151" selection-start-column="11" selection-end-line="151" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/No36.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -795,9 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -829,7 +788,7 @@
     <entry file="file://$PROJECT_DIR$/src/No62.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#497#498#0" expanded="true" />
             <element signature="e#564#565#0" expanded="true" />
@@ -837,10 +796,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="177" column="17" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="1478" column="33" selection-start-line="1478" selection-start-column="33" selection-end-line="1478" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="668" column="17" selection-start-line="668" selection-start-column="17" selection-end-line="668" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/No63.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="594">
+          <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/No69.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding>
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
